@@ -64,6 +64,10 @@ Symbol.prototype.description
 # https://github.com/tc39/proposal-well-formed-stringify
 well-formed-json-stringify
 
+# Intl.DisplayNames: 
+# https://github.com/tc39/proposal-intl-displaynames
+Intl.DisplayNames
+
 # Intl.ListFormat
 # https://github.com/tc39/proposal-intl-list-format
 Intl.ListFormat
